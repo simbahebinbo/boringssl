@@ -37,3 +37,5 @@
 
 # Ignore target under any directory.
 target/
+.idea
+cmake-build-debug
